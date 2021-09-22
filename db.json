@@ -1,4 +1,13 @@
 {
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Etec Irmã Agostina",
+            "cidade": "São Paulo",
+            "estado/UN": "SP",
+            "pais": "Brasil" 
+        }
+    ],
     "fornecedores": [
       {
         "id": 1,
